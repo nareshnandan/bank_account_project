@@ -2,7 +2,7 @@
 
 A mini project using Python's Object-Oriented Programming (OOP) to simulate basic bank operations like deposit, withdraw, and balance check.
 
-## 📌 Features
+# Features
 
 - Create a bank account with account holder's name and balance
 - Deposit money into the account
@@ -10,7 +10,7 @@ A mini project using Python's Object-Oriented Programming (OOP) to simulate basi
 - View current balance
 - Simple command-line interaction
 
-## 🧠 Concepts Used
+# Concepts Used
 
 - Python Classes and Objects
 - Constructors (__init__)
@@ -18,7 +18,7 @@ A mini project using Python's Object-Oriented Programming (OOP) to simulate basi
 - Conditional Statements
 - Simple user input/output
 
-## 🧪 Sample Usage
+# Sample Usage
 
 ```python
 account = BankAccount("Naresh", 1000)
