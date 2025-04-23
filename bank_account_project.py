@@ -46,3 +46,7 @@ while True:
         break
     else:
         print("Invalid choice. Please select between 1 and 4.")
+
+    for j in range(1, 1+i):
+        print("*", end='')
+    print()
